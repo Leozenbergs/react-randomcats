@@ -32,14 +32,14 @@ class App extends Component{
       .catch(error =>
         console.log(error));
   }
-  componentDidMount(){
-    this.getCats();
-  }
 
   render(){
     return (
-      <div className="App">
+      <div className="App text-center">
         <h2>Hi!</h2>
+        <div className="text-center">
+          <button type="button" className="btn-catch" onClick={this.getCats}>Catch a cat</button>
+        </div>
         <img src={this.state.image} max-width="100%"/>
       </div>
     );
