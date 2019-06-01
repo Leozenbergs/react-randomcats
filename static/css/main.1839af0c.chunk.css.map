@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACE,iBACF,CAEA,WACE,QAAU,CACV,YAAY,CACZ,UAAW,CACX,kBAAmB,CACnB,kBACF","file":"main.1839af0c.chunk.css","sourcesContent":[".text-center{\n  text-align: center;\n}\n\n.btn-catch{\n  border:0px;\n  padding:10px;\n  color: #fff;\n  background: #42f480;\n  margin-bottom: 15px;\n}"]}
