@@ -2,6 +2,7 @@
   "name": "randomcats",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://myname.github.io/myapp",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
