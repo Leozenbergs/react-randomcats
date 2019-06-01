@@ -9,3 +9,12 @@
   background: #42f480;
   margin-bottom: 15px;
 }
+.App_image{
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
+.App_image img{
+  max-width: 100%;
+  height: auto;
+}
