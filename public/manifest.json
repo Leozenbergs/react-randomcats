@@ -8,8 +8,8 @@
       "type": "image/x-icon"
     },
     {
-      "src": "https://picsum.photos/id/929/144/144",
-      "sizes": "144x144",
+      "src": "favCat.ico",
+      "sizes": "152x152",
       "type": "image/x-icon"
     }
   ],
