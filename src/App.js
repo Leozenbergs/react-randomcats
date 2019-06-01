@@ -40,7 +40,9 @@ class App extends Component{
         <div className="text-center">
           <button type="button" className="btn-catch" onClick={this.getCats}>Catch a cat</button>
         </div>
-        <img src={this.state.image} max-width="100%"/>
+        <div className="App_image">
+          <img src={this.state.image} />
+        </div>
       </div>
     );
   }
